@@ -13,4 +13,4 @@ while (i<a.length){
     }
     i++
 }
-console.log("Hasil nya : "+max)
+console.log("Nilai maksimalnya adalah : "+max)
