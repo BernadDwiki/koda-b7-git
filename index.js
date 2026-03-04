@@ -13,4 +13,4 @@ while (i<a.length){
     }
     i++
 }
-console.log(max)
+console.log("Hasil nya : "max)
